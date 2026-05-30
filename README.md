@@ -10,9 +10,8 @@
 <h1>Easy Songs to Practice</h1>
 
 <ol>
-  <li>Wonderwall</li>
-  <li>Knockin’ on Heaven’s Door</li>
-  <li>Horse with No Name</li>
+  <li>Love or Money</li>
+  <li>Live and Learn</li>
 </ol>
 
 </body>
